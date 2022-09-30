@@ -1,3 +1,5 @@
+## Directions 
+
 . Make folder called -CoolRune- in root directory
 
 . Make a path in -CoolRune- directory called System_Sounds
